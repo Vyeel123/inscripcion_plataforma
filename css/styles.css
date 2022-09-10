@@ -78,6 +78,11 @@
 
 body {
   margin: 0;
+  background-image: url(../imagenes/v740-toon-13.jpg);
+  background-attachment: fixed;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
   font-family: var(--bs-body-font-family);
   font-size: var(--bs-body-font-size);
   font-weight: var(--bs-body-font-weight);
